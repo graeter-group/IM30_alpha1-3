@@ -6,7 +6,7 @@
 
 This repository contains code and analysis workflows for:
 
-**Denis Kiesewetter, Camilo Aponte-Santamaría, Frauke Gräter,**  
+**Denis Kiesewetter, Camilo Aponte-Santamaría, Frauke Gräter**  
 *Simulations of IM30 α-Helices 1–3 in presence of DOPG/POPC membranes*  
 
 Within the publication of:
@@ -15,7 +15,7 @@ Within the publication of:
 *Membrane binding of the cyanobacterial ESCRT-III protein IM30/Vipp1 crucially involves the helix α1-3 hairpin*  
 (Manuscript in preparation, July 2025)
 
-If you use this repository, please cite the following software used in the study and adhere to the MIT license:
+If you use this repository, please cite the following software used in the study and adhere to the GPL-3.0 license:
 
 - **GROMACS 2024.5**  
   Abraham, M. et al. *GROMACS 2024.5 Source code*, Zenodo (2025).  
