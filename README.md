@@ -4,8 +4,6 @@
 
 ## Citations
 
-# Citations
-
 This repository contains code and analysis workflows for:
 
 **Denis Kiesewetter, Camilo Aponte-Santamaría, Frauke Gräter,**  
