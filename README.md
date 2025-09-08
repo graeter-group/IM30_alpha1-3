@@ -6,14 +6,20 @@
 
 This repository contains code and analysis workflows for:
 
-**Denis Kiesewetter, Camilo Aponte-Santamaría, Frauke Gräter**  
-*Simulations of IM30 α-Helices 1–3 in presence of DOPG/POPC membranes*  
+**Membrane binding of a cyanobacterial ESCRT-III protein crucially
+involves the helix α1-3 hairpin conserved in all superfamily members**
+Lukas Schlösser1, Mirka Kutzner1, Nadja Hellmann1, Denis Kiesewetter2,3, Julia Bieber1, Ndjali
+Quarta1, Xingwu Ge4, Tom Goetze5, Benedikt Junglas5, Fumiki Matsumura2, Mischa Bonn2,
+Frauke Gräter2,3, Carsten Sachse5, Lu-Ning Liu5, Carla Schmidt1, Camilo Aponte-Santamaría2, and
+Dirk Schneider1,6,*
 
-Within the publication of:
-
-**Lucas Schlösser1, Mirka Kutzner1, Nadja Hellmann1, Xingwu Ge2, Benedikt Junglas3, Fumiki Matsumura4, Julia Bieber1, Carla Schmidt1, Mischa Bonn4, Carsten Sachse3, Lu-Ning Liu2, and Dirk Schneider1,5,**  
-*Membrane binding of the cyanobacterial ESCRT-III protein IM30/Vipp1 crucially involves the helix α1-3 hairpin*  
-(Manuscript in preparation, July 2025)
+1Department of Chemistry, Biochemistry, Johannes Gutenberg University, Mainz, Germany; 2Max-
+Plack Institute for Polymer Research, Mainz, Germany; 3Institute for Scientific Computing,
+Heidelberg University, Im Neuenheimer Feld 205, Heidelberg, 69120, Germany; 4Institute of
+Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool L69 7ZB, United
+Kingdom; 5Ernst-Ruska Centre for Microscopy and Spectroscopy with Electrons, ER-C-3:
+Structural Biology, Forschungszentrum Jülich, Jülich, Germany; 6Institute of Molecular
+Physiology, Johannes Gutenberg University Mainz, Mainz, Germany.
 
 If you use this repository, please cite the following software used in the study and adhere to the GPL-3.0 license:
 
